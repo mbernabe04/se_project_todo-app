@@ -1,14 +1,14 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+Todo app - Javaa
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Functional/Validated forms to input a to-do task or remove it with the ability to implement due dates and live time zones.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+HTML/CSS, JavaScript, Git, and OOP
 
 ## Deployment
 
